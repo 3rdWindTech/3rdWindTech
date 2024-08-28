@@ -1,4 +1,4 @@
-# ANGULAR
+# Remake of TeztWiz using Angular 17, UnoCSS, BabylonsJS, FastAPI, etc...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
